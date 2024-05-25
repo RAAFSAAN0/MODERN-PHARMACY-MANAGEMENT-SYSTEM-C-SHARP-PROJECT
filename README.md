@@ -32,7 +32,8 @@ For Customers:
 •	Password Management: Update passwords to keep accounts secure.
 
 # USER INTERFACES
-![image](https://github.com/RAAFSAAN0/MODERN-PHARMACY-MANAGEMENT-SYSTEM-C-SHARP-PROJECT/assets/164877790/527c43f5-d4ad-411a-91c6-073cd31157e2)
+![image](https://github.com/RAAFSAAN0/MODERN-PHARMACY-MANAGEMENT-SYSTEM-C-SHARP-PROJECT/assets/164877790/527c43f5-d4ad-411a-91c6-073cd31157e2)![image](https://github.com/RAAFSAAN0/MODERN-PHARMACY-MANAGEMENT-SYSTEM-C-SHARP-PROJECT/assets/164877790/b3904fae-c899-4bcb-b564-09e820ed798e)
+
 
 
 
